@@ -1,1 +1,1 @@
-# ProcesosInnovacion_Equipo_03
+# Equipo 03 - Procesos de Innovación
