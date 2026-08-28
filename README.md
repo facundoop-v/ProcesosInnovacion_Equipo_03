@@ -34,7 +34,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="https://cdn.phototourl.com/free/2026-08-28-3388885f-0e93-4b84-bdb4-03d3ed4b19ba.jpg" width="90"/> | **Allison Canchanya** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="https://cdn.phototourl.com/free/2026-08-28-2ec03fee-4445-4319-a48b-b23226d55fca.jpg" width="90"/> | **Justin Seminario** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="https://cdn.phototourl.com/free/2026-08-28-049df4fa-6ee1-4762-b138-c31cb4fcf32e.jpg" width="90"/> | **Emanuel Cruz** | Programador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 6** | Modelador/a | Programación, análisis de datos, simulación |
+| <img src="https://cdn.phototourl.com/free/2026-08-28-b2c6bbd3-bcfa-4555-be18-ce0dc2b9a835.jpg" width="90"/> | **Camila Trinidad** | Modelador/a | Programación, análisis de datos, simulación |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 7** | Gestionador/a | Programación, análisis de datos, simulación |
 ---
 
