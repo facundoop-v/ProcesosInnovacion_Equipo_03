@@ -20,6 +20,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://cdn.phototourl.com/free/2026-08-28-977cca8f-b67b-4f03-9e46-841b4f291fa3.jpg" />
+  <em>Figura 1. Fotografía del equipo 0X</em>
+</p>
 
 ---
 
@@ -27,8 +29,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Facundo Velásquez** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Valentina Peralta** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://cdn.phototourl.com/free/2026-08-28-098f94db-c94a-4de8-8fbd-73c137132c69.jpg"/> | **Facundo Velásquez** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://cdn.phototourl.com/free/2026-08-28-daea8feb-25d1-4325-bee9-ae223b7584e5.jpg"/> | **Valentina Peralta** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Allison Canchanya** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Justin Seminario** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
