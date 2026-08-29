@@ -20,7 +20,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://cdn.phototourl.com/free/2026-08-28-977cca8f-b67b-4f03-9e46-841b4f291fa3.jpg" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 03</em>
 </p>
 
 ---
